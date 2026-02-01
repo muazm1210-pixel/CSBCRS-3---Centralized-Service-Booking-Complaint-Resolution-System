@@ -33,25 +33,25 @@ The system provides a centralized platform for **service appointment booking** a
 
 ---
 
- CSBCRS-3/
-│
-├── app/
-│   ├── main.py
-│   ├── database.py
-│   ├── models.py
-│   ├── schemas.py
-│   ├── auth.py
-│   ├── routes/
-│   │   ├── users.py
-│   │   ├── appointments.py
-│   │   └── complaints.py
-│
-├── venv/               
-│
-├── requirements.txt    
-├── .gitignore
-├── README.md
-                    
+ **CSBCRS-3/**                                                                                                                                                                
+│                                                                                                                                                                             
+├── app/                                                                                                                                                                      
+│   ├── main.py                                                                                                                                                               
+│   ├── database.py                                                                                                                                                           
+│   ├── models.py                                                                                                                                                             
+│   ├── schemas.py                                                                                                                                                            
+│   ├── auth.py                                                                                                                                                               
+│   ├── routes/                                                                                                                                                               
+│   │   ├── users.py                                                                                                                                                          
+│   │   ├── appointments.py                                                                                                                                                   
+│   │   └── complaints.py                                                                                                                                                     
+│                                                                                                                                                                             
+├── venv/                                                                                                                                                                     
+│                                                                                                                                                                             
+├── requirements.txt                                                                                                                                                          
+├── .gitignore                                                                                                                                                                
+├── README.md                                                                                                                                                                 
+                                                                                                                                                                            
 
 ---
  
