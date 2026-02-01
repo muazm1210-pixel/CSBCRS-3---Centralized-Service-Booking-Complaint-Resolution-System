@@ -30,6 +30,26 @@ The system provides a centralized platform for **service appointment booking** a
    -uvicorn main:app --reload
    -http://127.0.0.1:8000/docs
 
+ CSBCRS-3/
+│
+├── app/
+│   ├── main.py
+│   ├── database.py
+│   ├── models.py
+│   ├── schemas.py
+│   ├── auth.py
+│   ├── routes/
+│   │   ├── users.py
+│   │   ├── appointments.py
+│   │   └── complaints.py
+│
+├── venv/               
+│
+├── requirements.txt    
+├── .gitignore
+├── README.md
+  
+
 
  
 
