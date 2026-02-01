@@ -30,17 +30,7 @@ The system provides a centralized platform for **service appointment booking** a
    -uvicorn main:app --reload
    -http://127.0.0.1:8000/docs
 
---
 
-##📌 **Where This System Can Be Used** (Use Cases)
-This backend system can be used in multiple real-world scenarios where secure user access, service management, and issue tracking are required.
-
-🔹 Service Appointment Management
-   -The system can be used by:
-   -Hospitals and clinics for doctor appointments
-   -Salons and beauty centers for service booking
-   -Consultants and professionals for client scheduling
-Users can book appointments online, while service providers can approve, reject, or manage bookings through secure APIs
  
 
 
