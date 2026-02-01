@@ -29,6 +29,9 @@ The system provides a centralized platform for **service appointment booking** a
    -pip install fastapi uvicorn sqlalchemy python-jose passlib[bcrypt]
    -uvicorn main:app --reload
    -http://127.0.0.1:8000/docs
+                    
+
+---
 
  CSBCRS-3/
 │
@@ -48,9 +51,9 @@ The system provides a centralized platform for **service appointment booking** a
 ├── requirements.txt    
 ├── .gitignore
 ├── README.md
-  
+                    
 
-
+---
  
 
 
